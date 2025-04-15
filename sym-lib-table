@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "aff7seggrand")(type "KiCad")(uri "C:/Users/amaub/Documents/ecole/projet 2a/symbole/aff7seggrand.kicad_sym")(options "")(descr ""))
+  (lib (name "dataDisplayProject")(type "KiCad")(uri "${KIPRJMOD}/dataDisplayProject.kicad_sym")(options "")(descr ""))
+)
